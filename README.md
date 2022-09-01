@@ -15,3 +15,9 @@ from posttagger import pos_tag
 
 list_of_pos_tags = pos_tag(sentence,tokenizer)
 ```
+
+
+Dependencies
+-------------------
+
+- [Stanford typed dependencies manual](https://downloads.cs.stanford.edu/nlp/software/dependencies_manual.pdf)
